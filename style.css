@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+}
+
+#banner {
+    border: solid red;
+    border-radius: 20px;
+    width: 100%;
+    height: 350px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+}
+
+.nav img {
+    background-color: transparent;
+    border-radius: 50%;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+}
+
+.empower_logo img {
+    height: 100px;
+    width: 400px;
+}
+
+.partnership div {
+    background-color: azure;
+    width: 40%;
+    margin-left: 60%;
+}
+
+.merch div {
+    background-color: azure;
+    width: 40%;
+}
+
+.merch_hoody img {
+    margin-left: 75%;
+    height: 250px;
+    width: 200px;
+}
+
+.donation {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.donation a {
+    padding: 25px;
+    text-align: center;
+    background-color: black;
+    border: solid red 2px;
+    border-radius: 15px;
+    font-size: x-large;
+}
+
